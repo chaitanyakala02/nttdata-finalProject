@@ -43,7 +43,7 @@ This layer represents the output of the application, usually some form of UI. Th
 
 <h2> Steps to run this application on your local machine </h2>
 
-1. For the this repo and setup your origin.
+1. Fork this repo and setup your origin.
 
 2. Clone the origin repo onto your local.
 
